@@ -31,6 +31,8 @@ body {
 body {
     background-image:url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQyaWFkcHgza3lzMjd6Z21scGY4bnNwcGcwYTdsN2JqZW5xYTB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif');
     background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
     height:100%;
     width:100%;
 }
