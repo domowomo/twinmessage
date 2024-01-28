@@ -7,7 +7,7 @@ function newMessage() {
         'i gotta know.',
         'things are so complicated',
         'i think about you all the time.',
-        'i want to escape with you to another dimension.'
+        'i want to escape with you to another dimension.',
         'finding the right words...',
         'so comfortable with you...',
         'trust',
@@ -125,7 +125,7 @@ function newMessage() {
         'i gotta know.',
         'things are so complicated',
         'i think about you all the time.',
-        'i want to escape with you to another dimension.'
+        'i want to escape with you to another dimension.',
         'finding the right words...',
         'so comfortable with you...',
         'trust',
