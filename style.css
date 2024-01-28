@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(233, 113, 14);
+}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+div {
+  margin-bottom: 2em;
+}
+button {
+  background-color: #fce304; /* yellow */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: "Lucida Console", monospace;  
+  border-radius: 8px;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+body {
+    background-image:url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQyaWFkcHgza3lzMjd6Z21scGY4bnNwcGcwYTdsN2JqZW5xYTB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif');
+    background-size:100%;
+    height:100%;
+    width:100%;
+}
+body {
+  font-family: "Lucida Console", monospace;
+  color: rgb(255, 255, 255);
+}
+
+    
