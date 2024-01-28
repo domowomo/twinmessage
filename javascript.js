@@ -1,10 +1,13 @@
 
 function newMessage() {
     var randomNumber = Math.floor(Math.random() * ([
+        'detatch from the outcome',
+        'rebirth',
+        'faith being challenged',
         'i gotta know.',
         'things are so complicated',
         'i think about you all the time.',
-        'i want to escape with you to another dimension.',
+        'i want to escape with you to another dimension.'
         'finding the right words...',
         'so comfortable with you...',
         'trust',
@@ -116,12 +119,15 @@ function newMessage() {
         'i ghosted and i regret it.'
     ].length));
     document.getElementById('messageDisplay').innerHTML = [
+        'detatch from the outcome',
+        'rebirth',
+        'faith being challenged',
         'i gotta know.',
         'things are so complicated',
         'i think about you all the time.',
-        'i want to escape with you to another dimension.',
+        'i want to escape with you to another dimension.'
+        'finding the right words...',
         'so comfortable with you...',
-        'finding the right words',
         'trust',
         'you are my one and only.',
         'tryna smoke',
